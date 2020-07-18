@@ -19,7 +19,7 @@
 <br />
 - 👩🏻‍🎓 Cursando Gestão da Tecnologia da Informação - FATEC Guaratinguetá
 <br />
-- 👩🏻‍💻 Analista Desenvolvedor Junior - **LIAX Tecnologia**
+- 👩🏻‍💻 Analista Desenvolvedor Junior na LIAX Tecnologia
 <br />
 - 💻 Techs: PHP, Node.js, React.js e React Native.
 
