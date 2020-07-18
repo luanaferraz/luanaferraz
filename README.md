@@ -16,7 +16,7 @@
   <img align="left" alt="Luana Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <br />
-
+<br />
 - 👩🏻‍🎓 Cursando Gestão da Tecnologia da Informação - FATEC Guaratinguetá
 - 👩🏻‍💻 Analista Desenvolvedor Junior - **LIAX Tecnologia**
 - 💻 Techs: PHP, Node.js, React.js e React Native.
