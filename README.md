@@ -1,16 +1,23 @@
-### Hi there 👋
+## Luana Ferraz 
 
-<!--
-**luanaferraz/luanaferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/luana-ferraz-b384b713b/">
+  <img align="left" alt="Luana Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/luanaferraz">
+  <img align="left" alt="Luana Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/luanaferraz">
+  <img align="left" alt="Luana Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5512981102400">
+  <img align="left" alt="Luana WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/whatsapp.svg" />
+</a>
+<a href="mailto:luanarufino94@gmail.com">
+  <img align="left" alt="Luana Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<br />
 
-Here are some ideas to get you started:
+- 👩🏻‍🎓 Cursando Gestão da Tecnologia da Informação - FATEC Guaratinguetá
+- 👩🏻‍💻 Analista Desenvolvedor Junior - **LIAX Tecnologia**
+- 💻 Techs: PHP, Node.js, React.js e React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
